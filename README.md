@@ -6,11 +6,14 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started if this is your first Flutter project
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This Youtube Video Help me to understand 
+how to use ListView.Builder for Efficient list rendering 
+create model class to represent each post data (eg id, title, body)
+Parse the Jason Response into a list of your model obj 
+choose between http or DIO for making http request
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://youtu.be/R-UGgffAC2s?si=AM_aCUZG1Dwi6fNu
+prefer Ahirlog channel vedio --> HTTP get request in Flutter
+
